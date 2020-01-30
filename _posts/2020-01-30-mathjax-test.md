@@ -11,7 +11,7 @@ Mathjax test
 
 The solutions of quadratic equation
 ======
-This is the solutions of quadratic equation $ax^2+bx+c=0$:
+This is the solution of quadratic equation $ax^2+bx+c=0$:
 
 \begin{equation}
 x = \frac{-b\pm\sqrt{b^2 - 4ac}}{2a}
