@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate studuent in MathSci (Mathematical Sciences) and SoC (School of Computing), KAIST.
+I am an undergraduate student in MathSci (Mathematical Sciences) and SoC (School of Computing), KAIST.
 
-My current interest includes:
+I am mostly interested in many topics in discrete mathematics, such as combinatorics, graph theory, and discrete geometry.
 
-* Mathematics
-  * Combinatorics, discrete geometry, graph theory
-* Applied Mathematics and Computer Science
-  * Statistics, data science, machine learning
-
-Currently, I am working at [Hyperconnect](https://hyperconnect.com/?lang=en) as data scientist.
+Currently, I am working at [Hyperconnect](https://hyperconnect.com/?lang=en) as Data Scientist, whereby I alternatively serve in the military.
