@@ -17,13 +17,14 @@ Education
 * Summer Session in University of California, Berkeley, 2017
 * Sejong Science High School, 2013 ~ 2015
 
-Awards and Honors (Selected)
+Awards and Honors
 ======
+* 7th place, Simon Marais Mathematics Competition (2019)
 * Dean's List, College of Natural Science, KAIST (2018)
 * Samsung Software Membership (2017 ~ )
-* KAIST Presidential Fellowship, KAIST (2016)
+* KAIST Presidential Fellowship, KAIST (2016 ~ )
 * Presidential Scholarship of Science, Korea Student Aid Foundation (2015)
-* Excellence Award, Korean Mathematical Olympiad Final (2013)
+* Excellence Award, Final Korean Mathematical Olympiad (2013)
 
 Work experience
 ======
@@ -40,16 +41,14 @@ Activities
 ======
 * Problemsetter of [KAIST 8th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/326) (2018)
 * Participated in the study group aiming to solve all the problems in *Algebraic Topology by A. Hatcher* (2018)
-* Participated in Graph Theory research in KAIST Dept. of Mathematical Sciences as an Individual Study (Spring 2018)
 * Led the Information Theory study group (Spring 2018)
 * KAIST Undergraduate Mathematics Colloquium Head Organizer (Fall 2017, Spring 2018)
-* Participated in Interpretable Machine Learning research in [ALINLAB](http://alinlab.kaist.ac.kr/) in KAIST Dept. of EE as an Individual Study (Winter 2017)
 * Participated in the Riemann Surface study group (Fall 2017)
 * Problemsetter of [KAIST 7th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/254) (2017)
 
-Skills
+Computer Skills
 ======
-* Computer programming
+* Programming languages
   * C/C++, Java, Python, SQL, HTML, CSS, Javascript, MATLAB
 * Others
   * LaTeX
