@@ -7,7 +7,7 @@ tags:
 mathjax: true
 ---
 
-Does Mathjax work well in this blog?
+_Does Mathjax work well in this blog?_
 
 The solutions of quadratic equation
 ======
