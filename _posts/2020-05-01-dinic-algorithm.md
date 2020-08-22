@@ -1,7 +1,7 @@
 ---
-title: 'Dinic\'s Algorithm and Dynamic Trees'
-date: 2020-01-30
-permalink: /posts/2020/01/mathjax-test/
+title: 'Dinic''s Algorithm and Dynamic Trees'
+date: 2099-01-30
+permalink: /posts/2020/01/dinic-algorithm/
 tags:
   - algorithm
   - flow network

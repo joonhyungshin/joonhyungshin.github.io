@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Complete CV](/files/CV.pdf)
+[Download CV](/files/CV.pdf) (last updated August 2020)
 
 Education
 ======
@@ -39,12 +39,13 @@ Teaching
 
 Activities
 ======
-* Problemsetter of [KAIST 8th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/326) (2018)
-* Participated in the study group aiming to solve all the problems in *Algebraic Topology by A. Hatcher* (2018)
-* Led the Information Theory study group (Spring 2018)
-* KAIST Undergraduate Mathematics Colloquium Head Organizer (Fall 2017, Spring 2018)
-* Participated in the Riemann Surface study group (Fall 2017)
-* Problemsetter of [KAIST 7th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/254) (2017)
+* Organizer of Combinatorial Optimization Study Group (2020)
+* Problem setter of [KAIST 8th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/326) (2018)
+* Participant of Algebraic Topology Study Group (2018)
+* Organizer of Information Theory Study Group (Spring 2018)
+* Chief Organizer of KAIST Undergraduate Mathematics Colloquium (Fall 2017, Spring 2018)
+* Participant of Riemann Surface Study Group (Fall 2017)
+* Problem setter of [KAIST 7th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/254) (2017)
 
 Computer Skills
 ======
@@ -55,5 +56,5 @@ Computer Skills
 
 Languages
 ======
-* English (fluent)
 * Korean (native)
+* English (fluent)
