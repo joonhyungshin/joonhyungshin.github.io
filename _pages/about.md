@@ -10,7 +10,18 @@ redirect_from:
 
 _If you are looking for my Tistory blog written in Korean, [follow this link](https://tistory.joonhyung.xyz/)._
 
-I am an undergraduate student in MathSci (Mathematical Sciences) and SoC (School of Computing), KAIST.
+I am a fourth year undergraduate student of mathematics and computer science at KAIST, currently on leave for military service.
 
 I am interested in connections between mathematics and computer science, but from a mathematical and theoretical perspective.
-These include graph theory, discrete geometry, topological methods in combinatorics, etc.
+These include graph theory, discrete geometry, probabilistic and topological methods in combinatorics, etc.
+
+I also enjoy [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming).
+
+- Codeforces: [jo_on](https://codeforces.com/profile/jo_on)
+- BOJ: [topology](https://www.acmicpc.net/user/topology)
+
+## Contact
+- [name]@gmail.com
+- [name]@kaist.ac.kr
+
+[name] = joonhyung.shin
