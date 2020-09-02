@@ -10,7 +10,7 @@ redirect_from:
 
 _If you are looking for my Tistory blog written in Korean, [follow this link](https://tistory.joonhyung.xyz/)._
 
-I am a fourth year undergraduate student of mathematics and computer science at KAIST, currently on leave for military service.
+I am a fourth year undergraduate student of mathematics and computer science at KAIST.
 
 I am interested in connections between mathematics and computer science, but from a mathematical and theoretical perspective.
 These include graph theory, discrete geometry, probabilistic and topological methods in combinatorics, etc.
