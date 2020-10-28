@@ -12,9 +12,9 @@ _If you are looking for my Tistory blog written in Korean, [follow this link](ht
 
 I am a fourth year undergraduate student of mathematics and computer science at KAIST.
 
-I am interested in mathematical theories that have interesting applications to computer science and engineering; for instance, combinatorics and probability theory. These days, I'm more interested in combinatorics and discrete mathematics.
+I am interested in combinatorics, discrete mathematics, topology, and geometry.
 
-I also enjoy [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming).
+I also enjoy [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming)!
 
 - Codeforces: [jo_on](https://codeforces.com/profile/jo_on)
 - BOJ: [topology](https://www.acmicpc.net/user/topology)

@@ -26,10 +26,6 @@ Awards and Honors
 * Presidential Scholarship of Science, Korea Student Aid Foundation (2015)
 * Excellence Award, Final Korean Mathematical Olympiad (2013)
 
-Work experience
-======
-* Data Scientist, Hyperconnect (2018 ~ )
-
 Teaching
 ======
 * Teaching Assistant for Korea Mathematical Olympiad Summer School Program (2018)
@@ -46,6 +42,10 @@ Activities
 * Chief Organizer of KAIST Undergraduate Mathematics Colloquium (Fall 2017, Spring 2018)
 * Participant of Riemann Surface Study Group (Fall 2017)
 * Problem setter of [KAIST 7th ACM-ICPC Mock Competition](https://www.acmicpc.net/contest/view/254) (2017)
+
+Work experience
+======
+* Data Scientist, Hyperconnect (Aug 2018 ~ Oct 2020)
 
 Computer Skills
 ======
