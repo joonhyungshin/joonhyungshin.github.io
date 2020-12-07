@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/CV.pdf) (last updated August 2020)
+[Download CV](/files/CV.pdf) (last updated December 2020)
 
 Education
 ======
